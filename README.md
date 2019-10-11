@@ -1,4 +1,4 @@
-# hacktoberfest
+# Hacktoberfest
 Our repository for Hacktoberfest 2019
 
 ### How to use
