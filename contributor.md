@@ -1,4 +1,11 @@
-# Contributors
-
+# Contributor
 1. [Geektutor](github.com/geektutor)
-[omotoyosicodes](github.com/omotoyosicodes)
+2. [Ifihanolusheye](github.com/Ifihanolusheye)
+3. [Michael Eugene](github.com/michael-eugene)
+4. [ElijahTobs](github.com/elijahtobs)
+5. [Tomiwa2](github.com/Tomiwa2)
+6. [therealtomisin](github.com/therealtomisin)
+7. [abiola](github.com/abiola)
+8. [sulyman001](github.com/sulyman001)
+9. [Curiouspaul](github.com/Curiouspaul1)
+10. [omotoyosicodes](github.com/omotoyosicodes)
