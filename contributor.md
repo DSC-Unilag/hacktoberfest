@@ -1,4 +1,7 @@
-# Contributors
-
+# Contributor
 1. [Geektutor](github.com/geektutor)
-[therealtomisin](github.com/therealtomisin)
+2. [Ifihanolusheye](github.com/Ifihanolusheye)
+3. [Michael Eugene](github.com/michael-eugene)
+4. [ElijahTobs](github.com/elijahtobs)
+5. [Tomiwa2](github.com/Tomiwa2)
+6. [therealtomisin](github.com/therealtomisin)
