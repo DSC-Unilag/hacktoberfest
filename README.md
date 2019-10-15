@@ -7,6 +7,3 @@ Fork the repository<br>
 Clone the repository to your PC<br>
 Make changes<br>
 Make a PR
-
-
-This is my first PR
