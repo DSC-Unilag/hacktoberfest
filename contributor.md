@@ -1,4 +1,4 @@
-# Contributor
+# Contributors
 1. [Geektutor](github.com/geektutor)
 2. [Ifihanolusheye](github.com/Ifihanolusheye)
 3. [Michael Eugene](github.com/michael-eugene)
@@ -11,3 +11,4 @@
 10. [omotoyosicodes](github.com/omotoyosicodes)
 11. [LordGhostX](https://github.com/LordGhostX)
 12. [Tashy009](github.com/tashy009)
+13. [Lagunju](github.com/Lagunju)
